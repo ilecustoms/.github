@@ -1,12 +1,18 @@
-## Hi there 👋
+# ILE Customs GitHub
 
-<!--
+Welcome to the official GitHub for **ILE Customs**, one of the leading design communities in the ER:LC space.  
 
-**Here are some ideas to get you started:**
+This repository serves as a hub for development-related projects and resources used within ILE Customs. While our bots and internal tools remain private, this space may include useful documentation, APIs, and other contributions to the community.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## About ILE Customs  
+We specialize in:  
+- High-quality designs (logos, banners, and clothing)  
+- Community-driven creative projects  
+- Development of automation tools and utilities  
+
+## Terms of Service  
+By engaging with ILE Customs and its services, you agree to our [Terms of Service](https://docs.google.com/document/d/1uoMZvLeUeVX-f4wok0Pq07PYeWslt4jxXglHTJJZHoA/edit?usp=sharing).  
+
+## Contact & Community  
+- Join our community: [ILE Customs Discord](https://discord.com/invite/ilecustoms)  
+- Contact us: **contact.officialsteam@gmail.com**  
